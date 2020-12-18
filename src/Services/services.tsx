@@ -1,5 +1,4 @@
-const url = 'https://api.edamam.com/search?app_id=86823ef5&app_key=4476ffc26665ecc5ddabea239b66be7a'
-const url2 = 'https://www.themealdb.com/api/json/v1/1/lookup.php?i='
+const url = 'https://www.themealdb.com/api/json/v1/1/lookup.php?i='
 const urlFilters = 'https://www.themealdb.com/api/json/v1/1/filter.php?'
 
 export const searchRecipe = async (name: string) => {
@@ -14,7 +13,7 @@ export const searchRecipe = async (name: string) => {
 
 export const getRecipeData = async (id: string) => {
   try {
-    const response = await fetch(`${url2}${id}`)
+    const response = await fetch(`${url}${id}`)
     const json = await response.json()
     return json.meals[0]
   } catch (error) {
