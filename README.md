@@ -4,7 +4,7 @@ An application to search recipes, built using React and TheMealDB API.
 
 Designed by [Olya Synytsia](https://www.behance.net/olyasynytsya1).
 
-# Take a look [here](https://plate-pallete.netlify.app/) :) 
+### Take a look [here](https://plate-pallete.netlify.app/) :) 
 ## Project Screenshots 
 
 ![Homepage screenshot](src/Images/Screenshot_1.png?raw=true "Homepage")
