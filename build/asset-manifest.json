@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ab88178.chunk.css",
+    "main.js": "/static/js/main.6e0aae0e.chunk.js",
+    "main.js.map": "/static/js/main.6e0aae0e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.478c4048.js",
+    "runtime-main.js.map": "/static/js/runtime-main.478c4048.js.map",
+    "static/js/2.67ede4c1.chunk.js": "/static/js/2.67ede4c1.chunk.js",
+    "static/js/2.67ede4c1.chunk.js.map": "/static/js/2.67ede4c1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cefea9afc88490c57b5779510b785ee6.js": "/precache-manifest.cefea9afc88490c57b5779510b785ee6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ab88178.chunk.css.map": "/static/css/main.5ab88178.chunk.css.map",
+    "static/js/2.67ede4c1.chunk.js.LICENSE.txt": "/static/js/2.67ede4c1.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/static/media/background.a2076e40.jpg",
+    "static/media/bag.jpg": "/static/media/bag.ea9c8f8a.jpg",
+    "static/media/burger.jpg": "/static/media/burger.9245a213.jpg",
+    "static/media/plate.jpg": "/static/media/plate.74a87e6b.jpg",
+    "static/media/recipes-banner.jpg": "/static/media/recipes-banner.726a4b2b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.478c4048.js",
+    "static/js/2.67ede4c1.chunk.js",
+    "static/css/main.5ab88178.chunk.css",
+    "static/js/main.6e0aae0e.chunk.js"
+  ]
+}

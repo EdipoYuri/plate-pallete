@@ -1,0 +1,1 @@
+{"version":3,"sources":["global.css"],"names":[],"mappings":"AAAA,MACE,uBAAwB,CACxB,8BAA+B,CAC/B,+BAAgC,CAChC,yBACF","file":"main.5ab88178.chunk.css","sourcesContent":[":root{\r\n  --color-primary: #1FC803;\r\n  --color-primary-darker: #189603;\r\n  --color-primary-lighter: #EFFEEC;\r\n  --color-secondary: #FF8A00;\r\n}"]}
